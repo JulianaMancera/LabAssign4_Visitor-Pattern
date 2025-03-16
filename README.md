@@ -11,8 +11,8 @@
 Visitable Interface: Funiture
 Concrete Visible Class: FunitureItem
 Visitor Interface: ShippingCostCalculator
-Concrete Visitor Class: FunitureShopping
+Concrete Visitor Class: FunitureShipping
 Client Class: FunitureShippingCostApp
 ```
 ## UML Class Diagram
-![LabAssignment 4 - Visitor Pattern JRM _ 3BSCS-2](https://github.com/user-attachments/assets/adfee957-3615-4c65-a0ef-b5ade3f037e2)
+![LabAssignment 4 - Visitor Pattern JRM _ 3BSCS-2](https://github.com/user-attachments/assets/a4d02558-d3a0-45c0-a0fc-20778f1580a7)

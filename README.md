@@ -1,5 +1,6 @@
 # LabAssign4_Visitor-Pattern
-# LabAssign4_Visitor-Pattern
+## E-commerce platform: Funiture
+
 &emsp;&emsp; You are a software developer working on an e-commerce platform that sells various types of furniture (chairs, tables, sofas, etc.). You want to implement a functionality that calculates the shipping cost based on the furniture type and size. <br>
 
 &emsp;&emsp; Each furniture type might have its own unique shipping cost calculation logic. For example, chairs might be lightweight and have a flat shipping rate, while sofas might be bulky and require a distance-based shipping cost calculation. Implementing separate shipping logic within each furniture class would lead to tight coupling and difficulty adding new furniture types in the future. <br>
@@ -14,3 +15,4 @@ Concrete Visitor Class: FunitureShopping
 Client Class: FunitureShippingCostApp
 ```
 ## UML Class Diagram
+![LabAssignment 4 - Visitor Pattern JRM _ 3BSCS-2](https://github.com/user-attachments/assets/adfee957-3615-4c65-a0ef-b5ade3f037e2)

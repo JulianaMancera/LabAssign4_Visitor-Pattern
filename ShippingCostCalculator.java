@@ -1,4 +1,4 @@
-public interface ShippingCostCalculator{
-
-   public double calculateShipping(String funitureType);
+public interface ShippingCostCalculator {
+   
+   double visit(FurnitureItem item);
 }
